@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\moving ball\bin\Debug\net6.0-windows\moving ball.exe
+C:\Users\HP\Documents\moving ball\bin\Debug\net6.0-windows\moving ball.deps.json
+C:\Users\HP\Documents\moving ball\bin\Debug\net6.0-windows\moving ball.runtimeconfig.json
+C:\Users\HP\Documents\moving ball\bin\Debug\net6.0-windows\moving ball.dll
+C:\Users\HP\Documents\moving ball\bin\Debug\net6.0-windows\moving ball.pdb
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving ball.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving_ball.Form1.resources
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving ball.csproj.GenerateResource.cache
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving ball.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving ball.AssemblyInfo.cs
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving ball.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving ball.dll
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\refint\moving ball.dll
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving ball.pdb
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\moving ball.genruntimeconfig.cache
+C:\Users\HP\Documents\moving ball\obj\Debug\net6.0-windows\ref\moving ball.dll
